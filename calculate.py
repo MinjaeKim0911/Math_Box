@@ -7,3 +7,5 @@ def mutiply(a, b):
   return a*b
 def divide_free(a, b):
   return a/b
+def square(a):
+  retuen a*a
